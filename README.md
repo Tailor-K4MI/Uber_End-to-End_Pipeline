@@ -231,7 +231,6 @@ uber-streaming-project/
 
 ---
 
-## 📝 Notes
+## 📝 Credits
 
-- This project assumes **only basic Python/SQL knowledge** — all streaming/Spark concepts are introduced from scratch.
-- Designed as a **7-hour, hands-on learning project** suited for anyone looking to build practical, real-time data engineering skills with a modern Azure stack.
+- Huge thanks to [Ansh Lamba](https://www.youtube.com/@AnshLambaJSR) for the incredible tutorial that walked me through this [project](https://www.youtube.com/watch?v=5KIbhHo6GJA) step by step 🙌.
